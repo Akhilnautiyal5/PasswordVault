@@ -1,7 +1,3 @@
-Creating a README for your PasswordVault project is crucial as it provides an overview and instructions for users and contributors. Here's a structured template to help you get started:
-
----
-
 # PasswordVault
 
 ## Table of Contents
