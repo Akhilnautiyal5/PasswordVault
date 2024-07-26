@@ -62,7 +62,12 @@ PasswordVault is a secure and user-friendly application designed to help you sto
 
 ## Screenshots
 
-*Include screenshots of your application here.*
+<img src="https://github.com/user-attachments/assets/2fcde38e-9664-427b-8940-c91f65c7b933" alt="Login Screen" width="400" height="208"/>
+<img src="https://github.com/user-attachments/assets/ed497da3-af8d-415b-8cf6-816eab0b5107" alt="Main Dashboard" width="400"/>
+<img src="https://github.com/user-attachments/assets/847566fe-2512-4214-b640-2ffb478b129e" alt="Password Entry" width="400"/>
+<img src="https://github.com/user-attachments/assets/f9d327bf-3a5f-43b3-9dc8-440211f9f6d7" alt="Settings Page" width="400"/>
+
+
 
 ## Technologies Used
 
